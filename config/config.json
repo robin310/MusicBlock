@@ -1,0 +1,9 @@
+{
+    "clientID":"936934033231859752",
+    "clientSecret":"2-7ob9ogD0KvqhusI0RavmQWBZpO9ZnG",
+    "callbackURL":"http://blackbullstudio.ddns.net:3000/login/api",
+    "Admin":["844310101825290270"],
+    "token":"OTM2OTM0MDMzMjMxODU5NzUy.YfUZ0A.VQckeHxRfHARGgpO5RjW0O0aYVQ",
+    "prefix":"-",
+    "port":"3000"
+}
